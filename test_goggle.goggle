@@ -1,0 +1,14 @@
+! name: Enterprise Search
+! description: Internal trusted domains
+! public: false
+! author: Ritika
+! avatar: #0a7c41
+
+
+$discard
+$boost=4,site=accenture.com
+$boost=4,site=advantagego.com
+$boost=4,site=mckinsey.com
+$boost=4,site=bnvidianews.nvidia.com
+$boost=4,site=pwc.com
+$boost=4,site=qualcomm.com
