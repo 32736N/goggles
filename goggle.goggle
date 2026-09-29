@@ -5,6 +5,7 @@
 ! avatar: #0a7c41
 
 
+$discard,site=music.apple.com
 $discard,site=wikipedia.org
 $discard,site=sganalytics.com
 $discard,site=industryarc.com
